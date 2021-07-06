@@ -16,7 +16,7 @@ Desafio feito no servidor do discord Codelândia
  - Abra o terminal da sua ide
  - Digite: git clone https://github.com/MarceloCChaves/Desafio-Codel-ndia-01.git
 
-### Autor
+# Autor
 ---
 
 <a href="https://github.com/MarceloCChaves">
