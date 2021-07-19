@@ -1,4 +1,4 @@
-# Desafio-Codelândia-01
+# Blog Codelandia
 Desafio feito no servidor do discord Codelândia
 
 <h1 align="center">
